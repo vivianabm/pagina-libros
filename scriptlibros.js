@@ -1,4 +1,4 @@
-const list_url = "https://vivianabm.github.io/libros/listado.json";
+const list_url = "https://vivianabm.github.io/pagina-libros/listado.json";
 
 function cargarDatos(url) {
     document.getElementById("data").innerHTML = "";
