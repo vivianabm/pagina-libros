@@ -1,6 +1,4 @@
-{
-    "nombre":"Listado de libros más vendidos año 2021",
-    "listado":[
+[
 {
     "titulo":"La cocina de Santé",
     "autor":"Irene Delponte",
@@ -32,4 +30,4 @@
     "categoria":"No ficción"
 }
     ]
-}
+
